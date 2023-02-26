@@ -1,7 +1,4 @@
-# Laravel Api Rest
-
-[![Build Status](https://travis-ci.org/Tony133/laravel-api-rest.svg?branch=master)](https://travis-ci.org/Tony133/laravel-api-rest)
-
+# Laravel Api For BookStore
 
 ## Install with Composer
 
